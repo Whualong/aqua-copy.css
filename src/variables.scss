@@ -1,5 +1,5 @@
-$device-type: "weapp";
-$types: "primary", "secondary", "success", "info", "warning", "danger";
+$device-type: "weapp"; // 定义设备类型
+$types: "primary", "secondary", "success", "info", "warning", "danger"; // 定义主题颜色
 $position-total: 100;
 $z-total: 5;
 $order-total: 12;
